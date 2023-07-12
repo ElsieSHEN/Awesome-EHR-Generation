@@ -62,6 +62,7 @@ Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesom
 | Method      | Veneue   | Reference           | Authors | Code  |
 |-------------|----------|---------------------|---------|-------|
 |MedText      |NAACL-2019|[Towards Automatic Generation of Shareable Synthetic Clinical Notes Using Neural Language Models](https://arxiv.org/pdf/1905.07002.pdf)|Oren Melamud, Chaitanya Shivade|[GitHub](https://github.com/orenmel/synth-clinical-notes)
+||arXiv-2018|[Learning to Write Notes in Electronic Health Records](https://arxiv.org/pdf/1808.02622.pdf)|Peter J. Liu
 
 ## Utility Evaluation Benchmarks
 | Benchmark   |  Reference           | Note  |
