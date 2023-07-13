@@ -63,6 +63,7 @@ Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesom
 #### Rule-based Methods
 | Method      | Veneue    | Reference           | Authors | Code  |
 |-------------|-----------|---------------------|---------|-------|
+|Synthea      |AMIA-2018  |[Synthea: An approach, method, and software mechanism for generating synthetic patients and the synthetic electronic health care record](https://watermark.silverchair.com/ocx079.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsEwggK9BgkqhkiG9w0BBwagggKuMIICqgIBADCCAqMGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMQGJWCb5-VDzTqIuTAgEQgIICdI1TGxiOQ6bTI-eMFmw4krwUEF-za9h9j7sR4M7BLdomAaiSAyyfOMnnTIAEOuKSDE8rZYDYnXggnnMNWRD3i2zcQ9qbjYt5zs1WOaMGndFsChlCkEkmKvtZXvv3CS7Prdia9DZQJ3j8bsF6nFYhMXhLwuCizUknP2W7rd0vcTMtpsLwiG3D-8ye7Pn7bBUtN93yLuig3cU6rlm1Y1lcXJDv-4j_KWEBnVDVEqR4TYfDLSRQ65Bc_2XlDJh5K3dWf6Niy79aP0IiAQmYv7aAc_Z1R-Ilf6VOH8UkSCyIJ6iVCf6Him4YKMOa2ygB9KW3-aYqYAF4-qiuD44UZnMAaQqgnJkEOElOJgr3Id1u_wib2PUjuxVqO_kcwTz-g_-KkT0qLoxZSBljbEdDO1XsizEnCYRETRO5SlHenBiusXI3PADZAQryAzAB2HZWVn1vrFFHfdIUo-G0qE-95YLoriNBYEvUfecFjcDY_6QWeB_Lzzlan5wy8wNJcVu1OKAQUpBmKLr12lc7_CZzfasodiv8etQoiqI-jHtAnQMfJHTBBBbdFkUBZJC0yTEKKNUQa6AfBVUxSjfRch9zqlqLcOkuDl0UL7n9t_qr3L_IrmDY1xUq8OXAh0jiZMzQLwFzcMf8P83Xa7wQjWGQqtR6GdCnYNxSkEBudpwJyndv5odb86gbPhsJ88OIRD4EQxeHnGfkeVcOe9b1CwDUFDSRsh8z1D1B1CH0UJAvpDpq7lczROIzYce3LkJU-k82CSZL6y58Hg7ccikAJq6p9stM72Kph6paQc3BHtAt0yc40bGh4rmV-RXkyMp85cWI68ptsrYuwJE)|Jason Walonoski, Mark Kramer, Joseph Nichols, Andre Quina, Chris Moesel, Dylan Hall, Carlton Duffett, Kudakwashe Dude, Thomas Gallagher, Scott McLachlan|[GitHub](https://github.com/synthetichealth/synthea)
 |CoMSER       |ICHI-2016  |[Using the CareMap with Health Incidents Statistics for Generating the Realistic Synthetic Electronic Healthcare Record](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7776401&casa_token=S325KIaNQeIAAAAA:SFdeOJaK0mQ17RxeQMlSzfDDpYqo_sY7IAVszHCVM3qMwTVt7TAagiGrPMHQna_xpVS3nAPw9LFS&tag=1)| Scott McLachlan, Kudakwashe Dube, Thomas Gallagher|
 |             |BMC-2010   |[Data-driven approach for creating synthetic electronic medical records](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-10-59?report=reader)|Anna L Buczak, Steben Babin, Linda Moniz|
 |EMERGE       |JHUAPL-2008|[A Method for Generation and Distribution of Synthetic Medical Record Data for Evaluation of Disease-Monitoring Systems](https://secwww.jhuapl.edu/techdigest/Content/techdigest/pdf/V27-N04/27-04-LombardoMethod.pdf)|Joseph S. Lombardo, Linda J. Moniz||
@@ -77,7 +78,8 @@ Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesom
 | Method      | Veneue   | Reference           | Authors | Code  |
 |-------------|----------|---------------------|---------|-------|
 |MedText      |NAACL-2019|[Towards Automatic Generation of Shareable Synthetic Clinical Notes Using Neural Language Models](https://arxiv.org/pdf/1905.07002.pdf)|Oren Melamud, Chaitanya Shivade|[GitHub](https://github.com/orenmel/synth-clinical-notes)
-||arXiv-2018|[Learning to Write Notes in Electronic Health Records](https://arxiv.org/pdf/1808.02622.pdf)|Peter J. Liu
+||arXiv-2018|[Learning to Write Notes in Electronic Health Records](https://arxiv.org/pdf/1808.02622.pdf)|Peter J. Liu|
+|             |arXiv-2018|[Towards the Creation of a Large Corpus of Synthetically-Identified Clinical Notes](https://arxiv.org/pdf/1803.02728.pdf)|Willie Boag, Tristan Naumann, Peter Szolovits|
 
 ## Utility Evaluation Benchmarks
 | Benchmark   |  Reference           | Note  |
